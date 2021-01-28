@@ -1,0 +1,9 @@
+C:\Users\user\source\repos\BabyCarrot\bin\Debug\netstandard2.0\BabyCarrot.deps.json
+C:\Users\user\source\repos\BabyCarrot\bin\Debug\netstandard2.0\BabyCarrot.dll
+C:\Users\user\source\repos\BabyCarrot\bin\Debug\netstandard2.0\BabyCarrot.pdb
+C:\Users\user\source\repos\BabyCarrot\obj\Debug\netstandard2.0\BabyCarrot.csprojAssemblyReference.cache
+C:\Users\user\source\repos\BabyCarrot\obj\Debug\netstandard2.0\BabyCarrot.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\BabyCarrot\obj\Debug\netstandard2.0\BabyCarrot.AssemblyInfo.cs
+C:\Users\user\source\repos\BabyCarrot\obj\Debug\netstandard2.0\BabyCarrot.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\BabyCarrot\obj\Debug\netstandard2.0\BabyCarrot.dll
+C:\Users\user\source\repos\BabyCarrot\obj\Debug\netstandard2.0\BabyCarrot.pdb
